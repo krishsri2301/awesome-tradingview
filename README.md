@@ -2,7 +2,7 @@
 A curated list of [TradingView](https://www.tradingview.com/gopro/?share_your_love=nilux) Pine Script Resources, Strategies & Indicators
 
 ## What is TradingView and PineScript?
-
+  
 TradingView is a community-driven charting platform to get real-time market data, share trading ideas and education material.
 However, this list is a collection of strategies and indicators build on TradingView's [Pine Script](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html).
 
